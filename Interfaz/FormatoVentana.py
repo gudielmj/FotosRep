@@ -10,6 +10,10 @@ class PintaVentana():
     
     root.mainloop()
     
+    #Ya hemos dibujado la pantalla sin campos
+    
+    #Voy a probar a poner un comentario en lugar de git
+    
 
 #Hay que importar el módulo tkinter
 #Y dibujar la ventana para poderlo llamar desde el otro archivo
