@@ -1,8 +1,15 @@
+from tkinter import *
+
 class PintaVentana():
-
-	print ("Aquí se construye la ventana")
-
-	print("Aquí montaremos todo lo relacionado con la ventana")
+    
+    root=Tk()
+    
+    root.title("Busca duplicados")
+    
+    root.geometry("650x380")
+    
+    root.mainloop()
+    
 
 #Hay que importar el módulo tkinter
-#Y dibujar la ventana
+#Y dibujar la ventana para poderlo llamar desde el otro archivo
