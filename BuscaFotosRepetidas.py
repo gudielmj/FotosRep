@@ -12,3 +12,4 @@ print("Aquí vamos a poner la funcionalidad de comparación de fotos")
 #Ya hemos llamado a dibujar pantalla 
 
 #Comentario desde la rama FrontEnd
+#Comentario desde la rama FrontEnd_2
